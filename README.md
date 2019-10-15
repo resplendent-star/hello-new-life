@@ -5,3 +5,7 @@ using namespace std;
 int main()
 
 {}
+
+void hello_git()
+{
+}
